@@ -22,6 +22,6 @@ This project demonstrates the integration of the Google Maps API with custom mar
 ### Installation
 
 1. Clone the repository to your local machine:
-
-   ```sh
 git clone https://github.com/MahmoudiAnass/mapsJS.git
+
+
